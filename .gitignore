@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# JetBrains / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+
+# Android specific
+captures/
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# Keystore (optional)
+*.jks
+*.keystore
+
+# VSCode
+.vscode/
+
+# Kotlin
+*.kotlin_module
+
+# Ignore compressed files
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
