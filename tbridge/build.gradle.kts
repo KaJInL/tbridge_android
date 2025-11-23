@@ -78,7 +78,7 @@ publishing {
             pom {
                 name.set("TBridge Android Library")
                 description.set("TBridge library for Android part")
-                url.set("https://github.com/KaJInL/t-bridge")
+                url.set("https://github.com/KaJInL/tbridge")
                 licenses {
                     license {
                         name.set("Apache License, Version 2.0")
@@ -95,7 +95,7 @@ publishing {
                 scm {
                     connection.set("scm:git:git://github.com/KaJInL/t-bridge")
                     developerConnection.set("scm:git:ssh://github.com/KaJInL/t-bridge")
-                    url.set("https://github.com/KaJInL/t-bridge")
+                    url.set("https://github.com/KaJInL/tbridge")
                 }
             }
 
